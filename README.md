@@ -1,4 +1,4 @@
-Repo Nest Version Control System
+# Repo Nest Version Control System
 
 A GitHub-inspired application that replicates basic Git commands and provides user authentication and repository management functionality.
 
