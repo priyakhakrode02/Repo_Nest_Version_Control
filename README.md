@@ -1,4 +1,4 @@
-A MERN based Github Clone with custom version control implemented from scratch.
+Repo Nest Version Control System
 
 A GitHub-inspired application that replicates basic Git commands and provides user authentication and repository management functionality.
 
